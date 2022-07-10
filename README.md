@@ -17,10 +17,10 @@ My work is split between
 
 Working in a product focused environment pushed my excitement for software infrastructure and cloud deployments through the roof.
 Since then I have used every opportunity to
-💾 Use SQL-DBs, NoSQL-DBs and unstructured data storages appropriately and dynamically with ML models
-🚢 Ship models as early and as stable as possible
-🚨 Have an eye on changing parameters and performances of a live model
-💡 Integrate services like message broker and pod scaling cleverly in the applications workflow
+💾 Use SQL-DBs, NoSQL-DBs and unstructured data storages appropriately and dynamically with ML models\
+🚢 Ship models as early and as stable as possible\
+🚨 Have an eye on changing parameters and performances of a live model\
+💡 Integrate services like message broker and pod scaling cleverly in the applications workflow\
 
 <!--
 **LeonKolyang/LeonKolyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
