@@ -9,18 +9,18 @@ Over the last 2 years I worked as a Data Scientist for an online marketing agenc
 At WDL we are currently building a SaaS to help our customers find the right leads at the right time.
 The core of our product is a recommendation engine, matching our customers with the right companies.
 
-My work is split between  
-🤗 Building the recommendation engine around a BERT language model\
-🎁 Wrapping everything in APIs and containers\
-🚀 Pushing the codebase for the SaaS to production\
-🚧 Maintaining the infrastructure and integrations with additional modules\
+My work is split between\
+🤗 &nbsp;**Building the recommendation engine** around a BERT language model\
+🎁 &nbsp;Wrapping everything in **APIs and containers**\
+🚀 &nbsp;Pushing the codebase for the SaaS to **production in the cloud**\
+🚧 &nbsp;**Maintaining the infrastructure** and integrations with additional modules
 
-Working in a product focused environment pushed my excitement for software infrastructure and cloud deployments through the roof.
-Since then I have used every opportunity to
-💾 Use SQL-DBs, NoSQL-DBs and unstructured data storages appropriately and dynamically with ML models\
-🚢 Ship models as early and as stable as possible\
-🚨 Have an eye on changing parameters and performances of a live model\
-💡 Integrate services like message broker and pod scaling cleverly in the applications workflow\
+Working in a product focused environment pushed my excitement for software infrastructure and cloud deployments through the roof!
+Since then I am focused on\
+💾 &nbsp;Using **SQL-DBs, NoSQL-DBs and unstructured data storages** appropriately and dynamically with ML models\
+🚢 &nbsp;**Shipping models** as early and as stable as possible\
+🚨 &nbsp;Having an eye on **changing parameters and performances** of a live model\
+💡 &nbsp;Integrating services like **message broker and pod scaling** cleverly in the applications workflow
 
 <!--
 **LeonKolyang/LeonKolyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
