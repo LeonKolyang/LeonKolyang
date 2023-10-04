@@ -18,11 +18,12 @@ My work is split between\
 🚧 &nbsp;**Maintaining the infrastructure** and integrations with additional modules
 -->
 
-Working in a product focused environment pushed my excitement for software infrastructure and cloud deployments!
+Working in a product focused environment pushed my excitement for software infrastructure and cloud deployments!  
 That's why I am focused on\
 💾 &nbsp;Using **SQL-DBs, NoSQL-DBs and unstructured data storages** appropriately and dynamically with ML models\
 🚢 &nbsp;**Shipping models** as early and as stable as possible\
 🚨 &nbsp;Having an eye on **changing parameters and performances** of a live model\
+🚧 &nbsp;**Building and Maintaining infrastructure**\
 💡 &nbsp;Integrating services like **message broker and pod scaling** cleverly in the applications design
 
 <!--
