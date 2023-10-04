@@ -4,7 +4,7 @@
 
 Hi, 
 
-I am a Machine Learning Engineer living and working in Amsterdam. I am 28 years old and have been playing around and building things with tech for over a decade now.
+I am Leon, a Machine Learning Engineer living and working in Amsterdam. I am 28 years old and have been playing around and building things with tech for over a decade now.
 
 Over the last 3 years I worked as a Data Scientist for an online marketing agency, as an ML Engineer for a german AI startup and currently as an ML Engineer for a food delivery company.
 <!--
