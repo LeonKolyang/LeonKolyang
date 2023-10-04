@@ -4,25 +4,26 @@
 
 Hi, 
 
-I am a Machine Learning Engineer living and working in Germany. I am 26 years old and have been playing around and building things with tech for over a decade now.
+I am a Machine Learning Engineer living and working in Amsterdam. I am 28 years old and have been playing around and building things with tech for over a decade now.
 
-Over the last 2 years I worked as a Data Scientist for an online marketing agency and as an ML Engineer for the AI startup Westphalia DataLab in Münster.
-
-At WDL we are currently building a SaaS to help our customers find the right leads at the right time.
-The core of our product is a recommendation engine, matching our customers with the right companies.
+Over the last 3 years I worked as a Data Scientist for an online marketing agency, as an ML Engineer for a german AI startup and currently as an ML Engineer for a food delivery company.
+<!--
+I lead the development of a core for a SaaS to helping customers find the right leads at the right time.
+The core consisted of a recommendation engine, matching our customers with the right companies.
 
 My work is split between\
 🤗 &nbsp;**Building the recommendation engine** around a BERT language model\
 🎁 &nbsp;Wrapping everything in **APIs and containers**\
 🚀 &nbsp;Pushing the codebase for the SaaS to **production in the cloud**\
 🚧 &nbsp;**Maintaining the infrastructure** and integrations with additional modules
+-->
 
-Working in a product focused environment pushed my excitement for software infrastructure and cloud deployments through the roof!
-Since then I am focused on\
+Working in a product focused environment pushed my excitement for software infrastructure and cloud deployments!
+That's why I am focused on\
 💾 &nbsp;Using **SQL-DBs, NoSQL-DBs and unstructured data storages** appropriately and dynamically with ML models\
 🚢 &nbsp;**Shipping models** as early and as stable as possible\
 🚨 &nbsp;Having an eye on **changing parameters and performances** of a live model\
-💡 &nbsp;Integrating services like **message broker and pod scaling** cleverly in the applications workflow
+💡 &nbsp;Integrating services like **message broker and pod scaling** cleverly in the applications design
 
 <!--
 **LeonKolyang/LeonKolyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
