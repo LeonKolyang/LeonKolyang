@@ -18,13 +18,14 @@ My work is split between\
 🚧 &nbsp;**Maintaining the infrastructure** and integrations with additional modules
 -->
 
-Working in a product focused environment pushed my excitement for software infrastructure and cloud deployments!  
+Working in a product focused environment pushed my excitement for software infrastructure and cloud deployments to support heavy ML workloads!  
 That's why I am focused on\
-💾 &nbsp;Using **SQL-DBs, NoSQL-DBs and unstructured data storages** appropriately and dynamically with ML models\
 🚢 &nbsp;**Shipping models** as early and as stable as possible\
+🧠 &nbsp;**Optimizing model design** for fast and efficient inference\
 🚨 &nbsp;Having an eye on **changing parameters and performances** of a live model\
 🚧 &nbsp;**Building and Maintaining infrastructure**\
-💡 &nbsp;Integrating services like **message broker and pod scaling** cleverly in the applications design
+💡 &nbsp;Integrating services like **message broker and pod scaling** cleverly in the applications design\
+💾 &nbsp;Using **SQL-DBs, NoSQL-DBs and unstructured data storages** appropriately and dynamically with ML models
 
 <!--
 **LeonKolyang/LeonKolyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
