@@ -4,9 +4,9 @@
 
 Hi, 
 
-I am Leon, a Machine Learning Engineer living and working in Amsterdam. I am 28 years old and have been playing around and building things with tech for over a decade now.
+I am Leon, a Machine Learning Engineer living and working in Calgary, CA. I am 29 years old and have been playing around and building things with tech for over a decade.
 
-Over the last 3 years I worked as a Data Scientist for an online marketing agency, as an ML Engineer for a german AI startup and currently as an ML Engineer for a food delivery company.
+Over the last 4 years I worked as an ML Engineer for an international food delivery company, ML Engineer for a german AI startup and as a Data Scientist for an online marketing agency.
 <!--
 I lead the development of a core for a SaaS to helping customers find the right leads at the right time.
 The core consisted of a recommendation engine, matching our customers with the right companies.
