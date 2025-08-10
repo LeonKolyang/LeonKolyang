@@ -6,7 +6,10 @@ Hi,
 
 I am Leon, a Machine Learning Engineer living and working in Calgary, CA. I am 29 years old and have been playing around and building things with tech for over a decade.
 
-Over the last 4 years I worked as an ML Engineer for an international food delivery company, ML Engineer for a german AI startup and as a Data Scientist for an online marketing agency.
+Over the last 5 years I worked as an ML Engineer with 
+- an international food delivery company building an ML platform for their logistics pillar
+- an AI startup applying Data Science in the logistics domain 
+- an online marketing agency to kickstart their Data Science journey
 <!--
 I lead the development of a core for a SaaS to helping customers find the right leads at the right time.
 The core consisted of a recommendation engine, matching our customers with the right companies.
@@ -16,7 +19,7 @@ My work is split between\
 🎁 &nbsp;Wrapping everything in **APIs and containers**\
 🚀 &nbsp;Pushing the codebase for the SaaS to **production in the cloud**\
 🚧 &nbsp;**Maintaining the infrastructure** and integrations with additional modules
--->
+
 
 Working in a product focused environment pushed my excitement for software infrastructure and cloud deployments to support heavy ML workloads!  
 That's why I am focused on\
@@ -26,7 +29,7 @@ That's why I am focused on\
 🚧 &nbsp;**Building and Maintaining infrastructure**\
 💡 &nbsp;Integrating services like **message broker and pod scaling** cleverly in the applications design\
 💾 &nbsp;Using **SQL-DBs, NoSQL-DBs and unstructured data storages** appropriately and dynamically with ML models
-
+-->
 <!--
 **LeonKolyang/LeonKolyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
