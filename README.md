@@ -4,7 +4,7 @@
 
 Hi, 
 
-I am Leon, a Machine Learning Engineer living and working in Calgary, CA. I am 29 years old and have been playing around and building things with tech for over a decade.
+I am Leon, a Machine Learning Engineer living and working in Calgary, CA. I am 30 years old and have been playing around and building things with tech for almost two decades.
 
 Currently working on [paigeant](https://github.com/LeonKolyang/paigeant), a no-headache framework to deploy dynamic workflows with Pydantic AI agents at scale without compromising on safety, observability, and reliability.
 
